@@ -1,0 +1,100 @@
+# /api/v1/swagger.json
+# http://127.0.0.1:8000/api/v1/docs
+
+# python-restx/flask-restx
+# https://github.com/python-restx/flask-restx
+# https://flask-restx.readthedocs.io/en/latest/
+
+# noirbizarre/flask-restplus
+# https://github.com/noirbizarre/flask-restplus
+# https://flask-restplus.readthedocs.io/en/stable/index.html
+
+Documenting with the @api.doc() decorator¶
+https://flask-restx.readthedocs.io/en/latest/swagger.html
+
+# YouYube Videos
+
+# Intro to Flask-RESTPlus
+# https://www.youtube.com/watch?v=yh-28ksEXwY
+
+# Michał Karzyński - Building beautiful RESTful APIs using Flask
+# https://www.youtube.com/watch?v=OTWs0wPHU-g
+
+# Python REST API Tutorial - Building a Flask REST API
+# https://www.youtube.com/watch?v=GMppyAPbLYk&t=2788s
+
+# Flask-RESTPlus Response Marshaling
+# https://www.youtube.com/watch?v=dmnOf-VvJcU
+
+# Flask-RESTPlus Swagger UI Tips
+# https://www.youtube.com/watch?v=P4IjcZ2qu_0&t=305s
+
+# Flask REST API Example With Pluggable Views and MethodView
+# https://www.youtube.com/watch?v=R0pUbct9WgI
+
+# How to Use Token Based Authentication in Flask-RESTPlus
+# https://www.youtube.com/watch?v=xF30i_A6cRw
+
+# Flask-Admin - An Example With an Existing Data Model
+# https://www.youtube.com/watch?v=0cySORIhkCg
+
+# How to Use Read and Create JSON Objects in Flask
+# https://www.youtube.com/watch?v=9ql0uA6ziJs
+
+# Using the url_for Function in Flask
+# https://www.youtube.com/watch?v=Ofy_jRHE3no
+
+# Building a Flask API in 2022
+# https://www.youtube.com/watch?v=Fqbn4IHxGlg
+
+# Python REST API Tutorial - Building a Flask REST API
+# https://www.youtube.com/watch?v=GMppyAPbLYk
+
+
+
+Flask API Documentation using Flask-Restx (Swagger for Flask)
+https://abhtri.medium.com/flask-api-documentation-using-flask-restx-swagger-for-flask-84be13d70e0
+
+Working with APIs using Flask, Flask-RESTPlus and Swagger UI
+https://towardsdatascience.com/working-with-apis-using-flask-flask-restplus-and-swagger-ui-7cf447deda7f
+
+Swagger UI tutorial
+https://idratherbewriting.com/learnapidoc/pubapis_swagger.html
+
+
+
+# Cannot import name 'soft_unicode' from 'markupsafe' [Solved]
+# https://bobbyhadz.com/blog/python-importerror-cannot-import-name-soft-unicode-from-markupsafe
+
+# Remove default namespace? #460
+# https://github.com/noirbizarre/flask-restplus/issues/460
+
+# How to edit Flask-plus default swagger-UI text
+# https://stackoverflow.com/questions/53237385/how-to-edit-flask-plus-default-swagger-ui-text
+
+# How can I change the host and port that the flask command uses?
+# https://stackoverflow.com/questions/41940663/how-can-i-change-the-host-and-port-that-the-flask-command-uses
+
+# How to create a dictionary type in an API model that has arbitrary field names? #115
+# https://github.com/python-restx/flask-restx/issues/115
+
+# Source code for flask_restx.fields
+# https://flask-restx.readthedocs.io/en/latest/_modules/flask_restx/fields.html
+
+# https://dev.to/sanjan/how-to-add-swagger-ui-to-a-plain-flask-api-project-with-an-openapi-specification-file-1jl8
+# https://sean-bradley.medium.com/add-swagger-ui-to-your-python-flask-api-683bfbb32b36
+
+# Nested Field
+# https://flask-restx.readthedocs.io/en/latest/marshalling.html
+
+
+# FLASK GEO-API Tutorial — Powerful geospatial FLASK explained
+# https://gis-ops.com/flask-geo-api-tutorial-powerful-geospatial-flask-explained/
+
+Handling basic configurations
+https://subscription.packtpub.com/book/web-development/9781783983407/1/ch01lvl1sec10/handling-basic-configurations
+
+
+
+Flask-Restx Swagger Doc issue
+https://stackoverflow.com/questions/67871238/flask-restx-swagger-doc-issue
